@@ -1,0 +1,22 @@
+{
+  "_git": {
+    "https://github.com/lowops/dev.git": []
+  },
+  "_paths": {
+    "github.com": {
+      "lowops": {
+        "like-json-playground": [
+          {
+            "_deps": {
+              "github.com": {
+                "lowops": {
+                  "like-json": []
+                }
+              }
+            }
+          }
+        ]
+      }
+    }
+  }
+}
